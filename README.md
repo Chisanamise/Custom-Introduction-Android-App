@@ -11,3 +11,13 @@
 *  Users can personalize the background image of the screen and even add floating images and text to enhance the visual appeal.
 *  Here is the link to the tutorial video for using this app: [Custom Introduction App使用教學影片](https://www.youtube.com/watch?v=eWYWM3D2eA4&list=PL2Ol_wvHWWn_rc_zv9_KlCt4sjPvKHpGT&ab_channel=ChisanamiseCoding)
 *  If you find this app useful after using it, you're welcome to support me by donating via PayPal, encouraging me to continue developing more convenient programming tools. Here's my PayPal donation link: [PayPal](https://paypal.me/chisanamisecoding?country.x=TW&locale.x=zh_TW)
+
+*  以下是App的實際畫面展示/Below are screenshots of the actual interface of the app
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture1.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture2.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture3.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture4.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture5.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture6.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture7.jpg)
+![image](https://github.com/Chisanamise/Custom-Introduction-Android-App/blob/main/Demo%20Picture8.jpg)
